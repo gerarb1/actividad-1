@@ -5,6 +5,8 @@ Este documento detalla el proceso técnico realizado por Gerardo Burgos para la 
 
 Se realizó la transición a un entorno basado en Linux para mejorar la eficiencia del flujo de trabajo. Se optó por Fish Shell debido a su capacidad de autocompletado y facilidad de personalización.
 
+<img width="657" height="224" alt="fishterminal" src="https://github.com/user-attachments/assets/371f29a6-590a-462b-9652-a01d860ec103" />
+
     Entorno: Ubuntu 22.04 LTS (WSL2).
 
     Shell: Fish Shell v3.7.0.
@@ -42,6 +44,8 @@ pnpm install
 # Ejecución del servidor de desarrollo
 pnpm run dev
 ```
+<img width="654" height="459" alt="creandovite" src="https://github.com/user-attachments/assets/589fb4d9-d5cc-4a32-a3fa-bda7f29d233a" />
+
 # Creación del proyecto
 pnpm create vite actividad-1 --template react
 
@@ -53,7 +57,7 @@ pnpm install
 pnpm run dev
 Estudiante: Gerardo Burgos
 
-Carrera: Ingeniería en Informática y Sistemas (Último año)
+Carrera: Sistemas Informaticos 
 
 Docente: Ing. Gary Guzman
 
