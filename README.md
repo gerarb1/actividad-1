@@ -1,19 +1,3 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
 Actividad 1: Configuración de Entorno y Proyecto ReactEste documento detalla el proceso técnico realizado por Gerardo Burgos para la configuración de un entorno de desarrollo profesional sobre WSL (Windows Subsystem for Linux) y la inicialización de una aplicación web moderna utilizando Vite.1. Configuración del Sistema y ShellSe realizó la transición a un entorno basado en Linux para mejorar la eficiencia del flujo de trabajo. Se optó por Fish Shell debido a su capacidad de autocompletado y facilidad de personalización.Entorno: Ubuntu 22.04 LTS (WSL2).Shell: Fish Shell v3.7.0.Gestor de Plugins: Fisher v4.4.8.Comandos de Verificación:Bashpwd
 fish -v
